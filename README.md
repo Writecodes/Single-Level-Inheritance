@@ -1,1 +1,1 @@
-# Single-Level-Inheritance
+# Types of inheritance
